@@ -67,6 +67,11 @@ const aditya = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdiThorat-eth&theme=radical&hide_border=true" />
 </div>
 
+## 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AdiThorat-eth&theme=discord&no-frame=true&no-bg=true&margin-w=4&row=1&column=8" />
+</div>
+
 ---
 
 ## 🎯 Professional Focus Areas
