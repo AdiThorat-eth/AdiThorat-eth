@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/154581040?v=4" width="150" style="border-radius: 50%" alt="Adi Thorat"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Aditya Thorat</h1>
 <h3 align="center">I love creating unique and visually stunning websites 💡🎨 | Java • JS • Python • HTML • CSS • Tailwind</h3>
 
