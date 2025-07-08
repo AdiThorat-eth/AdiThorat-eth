@@ -72,10 +72,6 @@ const aditya = {
 ## 🎯 Professional Focus Areas
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,python,html,css,tailwind,c,git,vscode,figma" />
-</div>
-
-<div align="center">
   
 ```mermaid
 mindmap
