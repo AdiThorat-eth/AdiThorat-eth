@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Aditya+Thorat;Full+Stack+Developer+%F0%9F%92%BB;UI%2FUX+Enthusiast+%F0%9F%8E%A8;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Aditya+Thorat;Developer+%F0%9F%92%BB;UI%2FUX+Enthusiast+%F0%9F%8E%A8;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -74,7 +74,7 @@ const aditya = {
 <div align="center">
   
   [![Mental Health Support Platform](https://github-readme-stats.vercel.app/api/pin/?username=AdiThorat-eth&repo=Mega-project---Mental-Health-Support-Platform&theme=radical&hide_border=true)](https://github.com/AdiThorat-eth/Mega-project---Mental-Health-Support-Platform)
-  [![Portfolio Website](https://github-readme-stats.vercel.app/api/pin/?username=AdiThorat-eth&repo=portfolio&theme=radical&hide_border=true)](https://github.com/AdiThorat-eth/portfolio)
+  [![Obys Agency Clone](https://github-readme-stats.vercel.app/api/pin/?username=AdiThorat-eth&repo=portfolio&theme=radical&hide_border=true)](https://github.com/AdiThorat-eth/Cloned-a-website---Obys-Agency-)
   
 </div>
 
