@@ -20,7 +20,7 @@ const aditya = {
     askMeAbout: ["Web Development", "Java", "Python", "UI/UX Design"],
     technologies: {
         frontEnd: ["HTML5", "CSS3", "JavaScript", "Tailwind CSS"],
-        backEnd: ["Java", "Python"],
+        languages: ["Java", "JavaScript", "C", "Python"],
         tools: ["Git", "VS Code", "GSAP", "Locomotive Scroll"],
         databases: ["Learning..."],
         currentlyExploring: ["Node.js", "Express.js", "MongoDB"]
