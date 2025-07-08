@@ -69,6 +69,46 @@ const aditya = {
 
 ---
 
+## 🎯 Professional Focus Areas
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,python,html,css,tailwind,c,git,vscode,figma" />
+</div>
+
+<div align="center">
+  
+```mermaid
+mindmap
+  root((Aditya Thorat))
+    Frontend Development
+      HTML5 & CSS3
+      JavaScript
+      Tailwind CSS
+      UI/UX Design
+    Backend Development
+      Java Programming
+      Node.js
+      Express.js
+      Database Management
+    Data Structures & Algorithms
+      Problem Solving
+      Algorithm Design
+      Java DSA
+      Competitive Programming
+    Web Animation
+      GSAP
+      Locomotive Scroll
+      Interactive Design
+    Development Tools
+      Git & Version Control
+      VS Code
+      Figma Design
+```
+
+</div>
+
+---
+
 ## 🏆 Featured Projects
 
 <div align="center">
