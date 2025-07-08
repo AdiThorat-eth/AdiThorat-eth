@@ -145,7 +145,7 @@ Currently:
   - 🔭 Working on: Java DSA & Backend Development
   - 🌱 Learning: Node.js, Express.js, MongoDB
   - 👯 Looking to collaborate on: Open Source Projects
-  - 🎯 2024 Goals: Contribute to Open Source & Build Full Stack Apps
+  - 🎯 2025 Goals: Contribute to Open Source & Build Full Stack Apps
   - 💡 Fun fact: I debug with console.log more than I care to admit 😅
 ```
 
