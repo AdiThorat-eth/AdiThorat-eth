@@ -35,55 +35,11 @@ const aditya = {
 
 ---
 
-## 🎯 Professional Focus Areas
+## 🛠️ Tech Stack
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,js,python,html,css,tailwind,c,git,vscode,figma" />
 </div>
-
-<div align="center">
-  
-```mermaid
-mindmap
-  root((Aditya Thorat))
-    Frontend Development
-      HTML5 & CSS3
-      JavaScript
-      Tailwind CSS
-      UI/UX Design
-    Backend Development
-      Java Programming
-      Node.js
-      Express.js
-      Database Management
-    Data Structures & Algorithms
-      Problem Solving
-      Algorithm Design
-      Java DSA
-      Competitive Programming
-    Web Animation
-      GSAP
-      Locomotive Scroll
-      Interactive Design
-    Development Tools
-      Git & Version Control
-      VS Code
-      Figma Design
-```
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AdiThorat-eth&theme=discord&no-frame=true&no-bg=true&margin-w=4&row=1&column=8" />
-</div>
-
----
-
-## 🛠️ Tech Stack
 
 <div align="center">
   
@@ -161,7 +117,7 @@ Currently:
   ![Data Structures](https://img.shields.io/badge/Data_Structures-FF6B6B?style=for-the-badge&logo=code&logoColor=white)
   ![Algorithms](https://img.shields.io/badge/Algorithms-4ECDC4?style=for-the-badge&logo=algorithm&logoColor=white)
   ![Backend Development](https://img.shields.io/badge/Backend_Development-45B7D1?style=for-the-badge&logo=server&logoColor=white)
-  ![Web Animation](https://img.shields.io/badge/Web_Animation-96CEB4?style=for-the-badge&logo=animation&logoColor=white)
+  ![System Design](https://img.shields.io/badge/System_Design-96CEB4?style=for-the-badge&logo=architecture&logoColor=white)
   
 </div>
 
@@ -171,8 +127,8 @@ Currently:
 
 <div align="center">
   
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:email@gmail.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourname)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:a.workspace.00@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-thorat)
   
 </div>
 
