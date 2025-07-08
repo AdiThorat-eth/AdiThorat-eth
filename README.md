@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/154581040?v=4" width="150" alt="Adi Thorat's GitHub profile picture" />
+  <img src="https://github.com/AdiThorat-eth.png" width="150" alt="Adi Thorat" />
 </p>
 
 
