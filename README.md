@@ -115,6 +115,7 @@ mindmap
 <div align="center">
   
   [![Mental Health Support Platform](https://github-readme-stats.vercel.app/api/pin/?username=AdiThorat-eth&repo=Mantra-Comprehensive-Mental-health-Platform&theme=radical&hide_border=true)](https://github.com/AdiThorat-eth/Mantra-Comprehensive-Mental-health-Platform)
+  [![Valorant Reimagined](https://github-readme-stats.vercel.app/api/pin/?username=AdiThorat-eth&repo=Valorant--Reimagined&theme=radical&hide_border=true)](https://github.com/AdiThorat-eth/Valorant--Reimagined)
   [![Obys Agency Clone](https://github-readme-stats.vercel.app/api/pin/?username=AdiThorat-eth&repo=Cloned-a-website---Obys-Agency-&theme=radical&hide_border=true)](https://github.com/AdiThorat-eth/Cloned-a-website---Obys-Agency-)
   
 </div>
