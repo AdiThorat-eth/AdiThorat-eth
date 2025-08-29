@@ -19,7 +19,7 @@ const aditya = {
     currentFocus: ["Java & DSA", "Backend Development", "Advanced JavaScript"],
     askMeAbout: ["Web Development", "Java", "Python", "UI/UX Design"],
     technologies: {
-        frontEnd: ["HTML5", "CSS3", "JavaScript", "Tailwind CSS"],
+        frontEnd: ["ReactJS", "HTML5", "CSS3", "JavaScript", "Tailwind CSS"],
         languages: ["Java", "JavaScript", "C", "Python"],
         tools: ["Git", "VS Code", "GSAP", "Locomotive Scroll"],
         databases: ["Learning..."],
