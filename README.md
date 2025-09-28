@@ -88,6 +88,7 @@ const aditya = {
 mindmap
   root((Aditya Thorat))
     Frontend Development
+      ReactJS
       HTML5 & CSS3
       JavaScript
       Tailwind CSS
