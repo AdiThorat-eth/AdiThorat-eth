@@ -79,6 +79,7 @@ const aditya = {
 <div align="center">
   
 ```mermaid
+%%{init: {'theme':'neutral'}}%%
 mindmap
   root((Aditya Thorat))
     Frontend Development
