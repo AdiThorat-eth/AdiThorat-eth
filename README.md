@@ -16,7 +16,7 @@
 const aditya = {
     pronouns: "He/Him",
     location: "India 🇮🇳",
-    currentFocus: ["Java & DSA", "Backend Development", "Advanced JavaScript"],
+    currentFocus: ["Java & DSA", "Backend Development", "Advanced Animation"],
     askMeAbout: ["Web Development", "Java", "Python", "UI/UX Design"],
     technologies: {
         frontEnd: ["ReactJS", "HTML5", "CSS3", "JavaScript", "Tailwind CSS"],
