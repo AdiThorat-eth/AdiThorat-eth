@@ -178,7 +178,7 @@ Currently:
 <div align="center">
   
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:a.workspace.00@gmail.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-thorat)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-thorat-021b582bb/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
   
 </div>
 
