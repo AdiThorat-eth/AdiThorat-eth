@@ -131,7 +131,7 @@ mindmap
 
 | Project | Tech Stack | Status | Description |
 |---------|------------|--------|-------------|
-| **[Mental Health Support Platform](https://github.com/AdiThorat-eth/Mantra-Comprehensive-Mental-health-Platform)** | `REACTJS` `THREEJS` `TAILWINDCSS` `VITE` `GSAP` `HTML` | 🚧 In Progress | Interactive mental health awareness platform with smooth animations |
+| **[Mental Health Support Platform](https://github.com/AdiThorat-eth/Mantra-Comprehensive-Mental-health-Platform)** | `REACTJS` `THREEJS` `TAILWINDCSS` `VITE` `GSAP` `HTML` | 🚀 Deployed | Interactive mental health awareness platform with smooth animations |
 | **[Valorant Reimagined](https://github.com/AdiThorat-eth/Valorant--Reimagined)** | `REACTJS` `VITE` `TAILWINDCSS` `GSAP` `HTML` | ✅ Finished | A creative reimagining of the UI/UX for the game Valorant |
 | **[Portfolio Website](https://github.com/AdiThorat-eth/portfolio)** | `HTML` `Tailwind CSS` `JavaScript` | 🚧 In Progress | Personal portfolio showcasing projects and skills |
 | **[Obys Agency Clone](https://github.com/AdiThorat-eth/Cloned-a-website---Obys-Agency-)** | `HTML` `CSS` `JavaScript` | 🎨 UI Clone | Pixel-perfect recreation of modern agency website |
