@@ -60,6 +60,14 @@ const aditya = {
 
 ---
 
+## 🏆 Achievements
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AdiThorat-eth&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+</div>
+
+---
+
 ## 📊 GitHub Analytics
 
 <div align="center">
