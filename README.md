@@ -60,14 +60,6 @@ const aditya = {
 
 ---
 
-## 🏆 Achievements
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdiThorat-eth&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-</div>
-
----
-
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -81,12 +73,10 @@ const aditya = {
 
 ## 🏆 GitHub Trophies
 
-<!-- <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AdiThorat-eth&theme=discord&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
-</div> -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AdiThorat-eth&theme=dracula&no-frame=true&row=1" alt="GitHub Trophies" />
-</div>
+  <img src="https://github-profile-trophy.vercel.app/?username=AdiThorat-eth&theme=discord&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
+</div> 
+
 ---
 
 ## 🎯 Professional Focus Areas
