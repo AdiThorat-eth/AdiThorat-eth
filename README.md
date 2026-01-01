@@ -77,7 +77,7 @@ const aditya = {
   <img src="https://github-profile-trophy.vercel.app/?username=AdiThorat-eth&theme=discord&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
 </div> -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AdiThorat-eth&theme=radical&no-frame=false&margin-w=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AdiThorat-eth&theme=dracula&no-frame=true&row=1" alt="GitHub Trophies" />
 </div>
 ---
 
