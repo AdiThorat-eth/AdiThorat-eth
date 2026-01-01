@@ -73,10 +73,12 @@ const aditya = {
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=AdiThorat-eth&theme=discord&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
+</div> -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AdiThorat-eth&theme=radical&no-frame=false&margin-w=15" alt="GitHub Trophies" />
 </div>
-
 ---
 
 ## 🎯 Professional Focus Areas
