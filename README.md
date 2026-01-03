@@ -123,7 +123,9 @@ mindmap
 <div align="center">
   
   [![Mental Health Support Platform](https://img.shields.io/badge/Mantra-Mental_Health-ffb0c4?style=for-the-badge&logo=heart)](https://mantra-care-f37v.vercel.app/)
+  &nbsp;&nbsp;&nbsp;&nbsp;
   [![GTA VI Landing Page](https://img.shields.io/badge/GTA_VI-Landing_Page-fff9cb?style=for-the-badge&logo=rockstargames&logoColor=black)](https://gta-vi-lpage.vercel.app/)
+  &nbsp;&nbsp;&nbsp;&nbsp;
   [![Valorant Reimagined](https://img.shields.io/badge/Valorant-Reimagined-ff4655?style=for-the-badge&logo=valorant&logoColor=white)](https://valo-reimagined.vercel.app/)
   
 </div>
