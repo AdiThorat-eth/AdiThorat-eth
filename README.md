@@ -82,8 +82,8 @@ const aditya = {
 ## 🎯 Professional Focus Areas
 
 <div align="center">
-  
 ```mermaid
+%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#bb86fc','primaryTextColor':'#fff','primaryBorderColor':'#7c4dff','lineColor':'#bb86fc','secondaryColor':'#03dac6','tertiaryColor':'#cf6679','fontSize':'16px'}}}%%
 mindmap
   root((Aditya Thorat))
     Frontend Development
