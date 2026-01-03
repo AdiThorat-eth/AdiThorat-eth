@@ -86,30 +86,39 @@ const aditya = {
 ```mermaid
 mindmap
   root((Aditya Thorat))
+    :::rootStyle
     Frontend Development
+      :::branchStyle
       ReactJS
       HTML5 & CSS3
       JavaScript
       Tailwind CSS
       UI/UX Design
     Backend Development
+      :::branchStyle
       Java Programming
       Node.js
       Express.js
       Database Management
     Data Structures & Algorithms
+      :::branchStyle
       Problem Solving
       Algorithm Design
       Java DSA
       Competitive Programming
     Web Animation
+      :::branchStyle
       GSAP
       Locomotive Scroll
       Interactive Design
     Development Tools
+      :::branchStyle
       Git & Version Control
       VS Code
       Figma Design
+
+    classDef rootStyle fill:#FFD700,stroke:#333,stroke-width:2px,color:#000
+    classDef branchStyle fill:#00E5FF,stroke:#00838F,stroke-width:2px,color:#000
 ```
 
 </div>
