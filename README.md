@@ -107,6 +107,7 @@ mindmap
       GSAP
       Locomotive Scroll
       Interactive Design
+      Lenis
     Development Tools
       Git & Version Control
       VS Code
@@ -121,9 +122,9 @@ mindmap
 
 <div align="center">
   
-  [![Mental Health Support Platform](https://github-readme-stats.vercel.app/api/pin/?username=AdiThorat-eth&repo=Mantra-Comprehensive-Mental-health-Platform&theme=radical&hide_border=true)](https://github.com/AdiThorat-eth/Mantra-Comprehensive-Mental-health-Platform)
-  [![Valorant Reimagined](https://github-readme-stats.vercel.app/api/pin/?username=AdiThorat-eth&repo=Valorant--Reimagined&theme=radical&hide_border=true)](https://github.com/AdiThorat-eth/Valorant--Reimagined)
-  [![Obys Agency Clone](https://github-readme-stats.vercel.app/api/pin/?username=AdiThorat-eth&repo=Cloned-a-website---Obys-Agency-&theme=radical&hide_border=true)](https://github.com/AdiThorat-eth/Cloned-a-website---Obys-Agency-)
+  [![Mental Health Support Platform](https://mantra-care-f37v.vercel.app/)
+  [![GTA VI Landing Page](https://gta-vi-lpage.vercel.app/)
+  [![Valorant Reimagined](https://valo-reimagined.vercel.app/)
   
 </div>
 
@@ -132,10 +133,10 @@ mindmap
 | Project | Tech Stack | Status | Description |
 |---------|------------|--------|-------------|
 | **[Mental Health Support Platform](https://github.com/AdiThorat-eth/Mantra-Comprehensive-Mental-health-Platform)** | `REACTJS` `THREEJS` `TAILWINDCSS` `VITE` `GSAP` `HTML` | 🚀 Deployed | Interactive mental health awareness platform with smooth animations |
+| **[GTA VI Landing Page](https://github.com/AdiThorat-eth/GTA-VI-landing-Page)** | `REACTJS` `TAILWINDCSS` `LENIS` `GSAP` `CSS` | 🚀 Deployed | Cinematic landing page with Animation & smooth scroll |
 | **[Valorant Reimagined](https://github.com/AdiThorat-eth/Valorant--Reimagined)** | `REACTJS` `VITE` `TAILWINDCSS` `GSAP` `HTML` | ✅ Finished | A creative reimagining of the UI/UX for the game Valorant |
 | **[Portfolio Website](https://github.com/AdiThorat-eth/portfolio)** | `HTML` `Tailwind CSS` `JavaScript` | 🚧 In Progress | Personal portfolio showcasing projects and skills |
 | **[Obys Agency Clone](https://github.com/AdiThorat-eth/Cloned-a-website---Obys-Agency-)** | `HTML` `CSS` `JavaScript` | 🎨 UI Clone | Pixel-perfect recreation of modern agency website |
-| **[JavaScript Mastery](https://github.com/AdiThorat-eth/JavaScript)** | `JavaScript` | 📚 Learning | Advanced JS concepts and practical implementations |
 
 ---
 
