@@ -80,8 +80,6 @@ const aditya = {
 ---
 
 ## 🎯 Professional Focus Areas
-
-<div align="center">
 ```mermaid
 mindmap
   root((Aditya Thorat))
