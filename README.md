@@ -122,9 +122,9 @@ mindmap
 
 <div align="center">
   
-  [![Mental Health Support Platform](https://mantra-care-f37v.vercel.app/)
-  [![GTA VI Landing Page](https://gta-vi-lpage.vercel.app/)
-  [![Valorant Reimagined](https://valo-reimagined.vercel.app/)
+  [![Mental Health Support Platform]([(https://mantra-care-f37v.vercel.app/)](https://mantra-care-f37v.vercel.app/))
+  [![GTA VI Landing Page]([https://gta-vi-lpage.vercel.app/](https://gta-vi-lpage.vercel.app/))
+  [![Valorant Reimagined]([https://valo-reimagined.vercel.app/](https://valo-reimagined.vercel.app/))
   
 </div>
 
